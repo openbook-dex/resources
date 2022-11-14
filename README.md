@@ -24,6 +24,7 @@ $ ENDPOINT_URL="https://api.mainnet-beta.solana.com" KEYPAIR="[0,0,0,…]" ts-no
 
 Data
 - [alpha.openserum.io](https://alpha.openserum.io)
+- [serum-vial](https://github.com/tardis-dev/serum-vial) `wss://vial.mngo.cloud/v1/ws`
 
 Client Libraries:
 
