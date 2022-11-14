@@ -1,6 +1,14 @@
 # resources
 Resources for the "Serum Community Fork" project
 
+Project Background (article):
+- https://twitter.com/m_schneider/status/1591636082890006529
+
+Projects supporting:
+- Jupiter
+- Switchboard
+- Mango
+
 Program
 - [srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX](https://github.com/blockworks-foundation/serum-dex)
 
