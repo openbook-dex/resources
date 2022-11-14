@@ -25,10 +25,10 @@ $ ENDPOINT_URL="https://api.mainnet-beta.solana.com" KEYPAIR="[0,0,0,…]" ts-no
 Data
 - [alpha.openserum.io](https://alpha.openserum.io)
 
-Client Libraries: TBD
+Client Libraries:
 
 *Typescript*
 - [Serum-TS](https://github.com/project-serum/serum-ts)
 
 *Java*
-- [SolanaJ-Programs](https://github.com/skynetcap/solanaj-programs)
+- [SolanaJ-Programs](https://github.com/skynetcap/solanaj-programs/tree/master/serum)
