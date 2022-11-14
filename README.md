@@ -12,6 +12,9 @@ Projects supporting:
 Program
 - [srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX](https://github.com/blockworks-foundation/serum-dex)
 
+Create new market:
+- [Serum Explorer](https://serumexplorer.xyz) [Change Program Id to the new, above one (srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX)]
+
 Front-ends / GUIs
 - [Solape](https://dex.solape.io/#/market/8BnEgHoWFysVcuFFX7QztDmzuH8r5ZFvyP3sYwn1XTh6)
 
