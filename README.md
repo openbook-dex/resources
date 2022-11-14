@@ -36,3 +36,9 @@ Client Libraries:
 
 *Java*
 - [SolanaJ-Programs](https://github.com/skynetcap/solanaj-programs/tree/master/serum)
+
+*Python*
+- [PySerum](https://github.com/serum-community/pyserum)
+
+*C#*
+- [Solnet.Serum](https://github.com/bmresearch/Solnet.Serum)
