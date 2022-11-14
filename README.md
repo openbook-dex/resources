@@ -31,14 +31,7 @@ Data
 
 Client Libraries:
 
-*Typescript*
-- [Serum-TS](https://github.com/project-serum/serum-ts)
-
-*Java*
-- [SolanaJ-Programs](https://github.com/skynetcap/solanaj-programs/tree/master/serum)
-
-*Python*
-- [PySerum](https://github.com/serum-community/pyserum)
-
-*C#*
-- [Solnet.Serum](https://github.com/bmresearch/Solnet.Serum)
+- Serum-TS (Typescript): [Serum-TS](https://github.com/project-serum/serum-ts)
+- PySerum (Python): [PySerum](https://github.com/serum-community/pyserum)
+- Solnet.Serum (C#): [Solnet.Serum](https://github.com/bmresearch/Solnet.Serum)
+- SolanaJ-Programs (Java): [SolanaJ-Programs](https://github.com/skynetcap/solanaj-programs/tree/master/serum)
