@@ -59,10 +59,4 @@
     "name": "SLND/USDC",
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
   }
-    {
-    "address": "3NnxQvDcZXputNMxaxsGvqiKpqgPfSYXpNigZNFcknmD",
-    "deprecated": false,
-    "name": "MNGO/USDC",
-    "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
-  }
 ]
