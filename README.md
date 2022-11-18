@@ -12,6 +12,7 @@ Resources for the "Serum Community Fork" project
 - Switchboard
 - Mango
 - Drift
+- Raydium
 
 ## Program
 
