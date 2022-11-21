@@ -18,6 +18,12 @@
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
   },
   {
+    "address": "3vtRgLDesutQdwotnoUuSMuKKj8YJAE85s938mGKfxXZ",
+    "deprecated": false,
+    "name": "scnSOL/USDC",
+    "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
+  },
+  {
     "address": "FZxi3yWkE5mMjyaZj6utmYL54QQYfMCKMcLaQZq4UwnA",
     "deprecated": false,
     "name": "ETH/USDC",
