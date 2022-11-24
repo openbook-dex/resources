@@ -2,17 +2,20 @@
 
 Resources for the "Serum Community Fork" project
 
-## Project Background (article):
+## Project Background (article)
 
 - https://twitter.com/m_schneider/status/1591636082890006529
 
-## Projects supporting:
+## Projects supporting
 
 - Jupiter
 - Switchboard
 - Mango
 - Drift
 - Raydium
+- Prism
+- CellFi
+- Dual Finance
 
 ## Program
 
@@ -20,7 +23,7 @@ Resources for the "Serum Community Fork" project
 - mainnet `srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX`
 - devnet `EoTcMgcDRTJVZDMZWBoU6rhYHZfkNTVEAfz3uUJRcYGj`
 
-## Create new market:
+## Create new market
 
 - [Serum Explorer](https://serumexplorer.xyz)
 
@@ -42,8 +45,9 @@ $ ENDPOINT_URL="https://api.mainnet-beta.solana.com" KEYPAIR="[0,0,0,…]" ts-no
 - [serum-vial](https://github.com/tardis-dev/serum-vial)
   `wss://vial.mngo.cloud/v1/ws`
 - [birdeye.so](https://birdeye.so)
+- Dynamic markets.json: https://cache.prism.ag/openbook.json
 
-## Client Libraries:
+## Client Libraries
 
 - Serum-TS (Typescript): [Serum-TS](https://github.com/project-serum/serum-ts)
 - PySerum (Python): [PySerum](https://github.com/serum-community/pyserum)
