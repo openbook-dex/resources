@@ -26,6 +26,7 @@ Resources for the "Serum Community Fork" project
 ## Create new market
 
 - [Serum Explorer](https://serumexplorer.xyz)
+- [Raydium (Create Market)](https://raydium.io/create-market/)
 
 ## Front-ends / GUIs
 
