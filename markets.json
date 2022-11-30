@@ -64,5 +64,11 @@
     "deprecated": false,
     "name": "SLND/USDC",
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
+  },
+  {
+    "address": "7fcy5Mi4eQ8jxT1uThkpcYjC5FjjTojK9xSyKXQmHa1S",
+    "deprecated": false,
+    "name": "USDC/ISKT",
+    "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
   }
 ]
