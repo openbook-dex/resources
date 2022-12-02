@@ -16,6 +16,7 @@ Resources for the "Serum Community Fork" project
 - Prism
 - CellFi
 - Dual Finance
+- Dexlab
 
 ## Program
 
@@ -49,6 +50,7 @@ $ ENDPOINT_URL="https://api.mainnet-beta.solana.com" KEYPAIR="[0,0,0,…]" ts-no
   `wss://vial.mngo.cloud/v1/ws`
 - [birdeye.so](https://birdeye.so)
 - Dynamic markets.json: https://cache.prism.ag/openbook.json
+- Dynamic markets.json (OpenSerum): https://openserum.io/api/serum/markets.json
 
 ## Client Libraries
 
