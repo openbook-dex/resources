@@ -51,6 +51,7 @@ $ ENDPOINT_URL="https://api.mainnet-beta.solana.com" KEYPAIR="[0,0,0,…]" ts-no
 - [birdeye.so](https://birdeye.so)
 - Dynamic markets.json: https://cache.prism.ag/openbook.json
 - Dynamic markets.json (OpenSerum): https://openserum.io/api/serum/markets.json
+- Dynamic markets.json (OpenSerum), 24hr minimum volume: (https://openserum.io/api/serum/markets.json?min24hVolume=1000)
 
 ## Client Libraries
 
