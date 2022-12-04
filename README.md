@@ -1,6 +1,9 @@
 # resources
 
-Resources for the "Serum Community Fork" project
+Resources for the Openbook, a community driven fork of the old Serum V3 program.
+
+Discord: https://discord.gg/pX3n5Sercb
+Twitter: https://twitter.com/openbookdex 
 
 ## Project Background (article)
 
@@ -17,6 +20,8 @@ Resources for the "Serum Community Fork" project
 - CellFi
 - Dual Finance
 - Dexlab
+- Solend
+- Solape
 
 ## Program
 
@@ -34,6 +39,8 @@ Resources for the "Serum Community Fork" project
 - [Solape](https://dex.solape.io)
 - [Dexlab](https://openbook.dexlab.space)
 - [Jupiter](https://jup.ag/)
+- [Prism](https://prism.ag/)
+- [Forked Serum UI](https://openbook.lionfi.sh/#/market/8BnEgHoWFysVcuFFX7QztDmzuH8r5ZFvyP3sYwn1XTh6)
 
 ## Cranks
 
@@ -63,4 +70,23 @@ $ ENDPOINT_URL="https://api.mainnet-beta.solana.com" KEYPAIR="[0,0,0,…]" ts-no
 
 ## FAQ
 
-- Same account structs as Serum v3.
+Same code as Serum v3? 
+- Yes, On a newly deployed program ID, deployed by a multi-sig.
+
+Why fork Serum Code?
+- FTX had access to it and funds could be stolen by the "hacker", forked program with multisig control on [Realms](https://app.realms.today/dao/OPENBOOK)
+
+Token?
+- Still using SRM token for simplicity, more details soon.
+
+Whats the connection with Serum team/protocol?
+- Forked off the Serum codebase as FTX controls the authority, transitioned to an ecosystem realms multisig. Currently using SRM token but might transition off it.
+
+Hiring?
+- No, its a DAO, join our Discord. 
+
+Raising?
+- Doubt so but stay tuned.
+
+Airdrop?
+- No
