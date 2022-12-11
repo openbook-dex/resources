@@ -22,6 +22,7 @@ Twitter: https://twitter.com/openbookdex
 - Dexlab
 - Solend
 - Solape
+- Step Finance
 
 ## Program
 
