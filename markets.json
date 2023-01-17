@@ -76,5 +76,11 @@
     "deprecated": false,
     "name": "SLND/USDC",
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
+  },
+   {
+    "address": "FxHvReo3u2Lcu1ovqpe5KehHDJ4cWTVUvEYRjX58YepR",
+    "deprecated": false,
+    "name": "VOLT/USDC",
+    "programId": "BookWizfXJLgda24JdN1drgWzqw3ta3rU1vGotFjpNTH"
   }
 ]
