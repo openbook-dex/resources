@@ -23,6 +23,7 @@ Twitter: https://twitter.com/openbookdex
 - Solend
 - Solape
 - Step Finance
+- Lanatools
 
 ## Program
 
@@ -42,6 +43,7 @@ Twitter: https://twitter.com/openbookdex
 - [Jupiter](https://jup.ag/)
 - [Prism](https://prism.ag/)
 - [Forked Serum UI](https://openbook.lionfi.sh/#/market/8BnEgHoWFysVcuFFX7QztDmzuH8r5ZFvyP3sYwn1XTh6)
+- [Lanatools](https://lanatools.com/lanadex)
 
 ## Cranks
 

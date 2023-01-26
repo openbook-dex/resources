@@ -88,5 +88,11 @@
     "deprecated": false,
     "name": "SLND/USDC",
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
+  },
+  {
+    "address": "HE1nibjUq5cTi6Zer5679od58PDAjtPAjTetUuV5XMPn",
+    "deprecated": false,
+    "name": "MOLA/USDC",
+    "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
   }
 ]
