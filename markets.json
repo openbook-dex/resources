@@ -94,5 +94,11 @@
     "deprecated": false,
     "name": "MOLA/USDC",
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
+  },
+  {
+    "address": "iufycE4CrRMVHkgym27q28SEyCZ3ZHsN3rLxbPXA7m2",
+    "deprecated": false,
+    "name": "WOOF/USDC",
+    "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
   }
 ]
