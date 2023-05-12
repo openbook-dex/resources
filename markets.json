@@ -100,5 +100,11 @@
     "deprecated": false,
     "name": "WOOF/USDC",
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
+  },
+  {
+    "address": "5QAbViTYT17ZQr7yTL9vsQdr6oqo2s88NJDNwPeEEopr",
+    "deprecated": false,
+    "name": "TTT/USDC",
+    "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
   }
 ]

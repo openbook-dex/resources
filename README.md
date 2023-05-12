@@ -24,6 +24,7 @@ Twitter: https://twitter.com/openbookdex
 - Solape
 - Step Finance
 - Lanatools
+- TabTrader
 
 ## Program
 
@@ -45,6 +46,7 @@ Twitter: https://twitter.com/openbookdex
 - [Forked Serum UI](https://openbook.lionfi.sh/#/market/8BnEgHoWFysVcuFFX7QztDmzuH8r5ZFvyP3sYwn1XTh6)
 - [Lanatools](https://lanatools.com/lanadex)
 - [WOOF DEX](https://dex.woofsolana.world)
+- [TabTrader](https://tabtrader.com)
 
 ## Cranks
 
