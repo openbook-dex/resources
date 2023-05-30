@@ -106,5 +106,11 @@
     "deprecated": false,
     "name": "TTT/USDC",
     "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
+  },
+  {
+    "address": "FnjJvVT4XHZhKCc5xFLYEN9M7BNbSbjwUWLwXVEJLJkf",
+    "deprecated": false,
+    "name": "BABY/SOL",
+    "programId": "srmqPvymJeFKQ4zGQed1GFppgkRHL9kaELCbyksJtPX"
   }
 ]
