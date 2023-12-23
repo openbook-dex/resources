@@ -34,7 +34,7 @@ Twitter: https://twitter.com/openbookdex
 
 ## Create new market
 
-- [Serum Explorer](https://serum-explorer.vercel.app/)
+- [Serum Explorer](https://openbook-explorer.xyz/)
 - [Raydium (Create Market)](https://raydium.io/create-market/)
 
 ## Front-ends / GUIs
